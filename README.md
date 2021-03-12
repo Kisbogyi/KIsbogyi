@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KIsbogyi
+- 👋 Hi, I’m @Kisbogyi
 - 👀 I’m interested in codeing and trying to know how everything works. 
 - 🌱 I’m currently learning Python, PI, and hacking, and github
 - 💞️ I’m looking to collaborate on nothing yet,but if I screw up sth just say. 
